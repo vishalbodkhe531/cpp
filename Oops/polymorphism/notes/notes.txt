@@ -1,0 +1,4 @@
+their are two types of polymorphysms
+
+   1] compiletime polymorphysms ===> function overloading
+   2] runtime polymorphysms

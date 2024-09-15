@@ -1,0 +1,8 @@
+Mainly 3 types of inheritence 
+
+  *Inheritence : we can get some attributes from parent class and use in child class 
+                 it reduce our code.
+  
+   1] signle inheritence
+   2] multiple inheritence
+   3] multilavel inheritence
