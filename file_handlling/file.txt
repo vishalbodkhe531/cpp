@@ -1,0 +1,10 @@
+  A)the usefull classes for working with files in c++ are :
+      1] fstreambase
+      2] ifstream ---> derived from fstreambase
+      3] of stream ---> derived from fstreambase
+
+      
+
+  B) In order work with files in c++, you will have to open it, Primarily, there are 2 ways to open a file;
+      1] using the constructor
+      2] using the menber function open() of the class
